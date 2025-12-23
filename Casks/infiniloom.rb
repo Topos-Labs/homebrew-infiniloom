@@ -14,7 +14,6 @@ cask "infiniloom" do
   name "Infiniloom"
   desc "High-performance repository context generator for LLMs"
   homepage "https://github.com/Topos-Labs/infiniloom"
-  license "MIT"
 
   binary "infiniloom"
 
