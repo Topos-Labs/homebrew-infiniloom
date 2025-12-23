@@ -1,14 +1,14 @@
 cask "infiniloom" do
-  version "0.3.0"
+  version "0.3.1"
 
   on_intel do
     url "https://github.com/Topos-Labs/infiniloom/releases/download/v#{version}/infiniloom-darwin-x64.tar.gz"
-    sha256 "155d94a5cc92c1c71b41db05c162408d89d2017d1c0a3d3a83902bf6024bbfcc"
+    sha256 "6e42efdf0153c7c76c5ea9d7ea6b9a5df6a72e587d8d2c0550cb3647851237b8"
   end
 
   on_arm do
     url "https://github.com/Topos-Labs/infiniloom/releases/download/v#{version}/infiniloom-darwin-arm64.tar.gz"
-    sha256 "1cc4a5fb3e72597b76bb013090cca5bed119059d22471a0e7ff65f749c9ce014"
+    sha256 "eb6c31070397e01881d2b133a60d79bc206099dee92efe73568371dcd7b491d4"
   end
 
   name "Infiniloom"
