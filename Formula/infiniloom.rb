@@ -1,8 +1,8 @@
 class Infiniloom < Formula
   desc "High-performance repository context generator for LLMs"
   homepage "https://github.com/Topos-Labs/infiniloom"
-  url "https://github.com/Topos-Labs/infiniloom/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "131e1e500f5617d29a6407bd3b097728166b352bf69e68489e0d7dfa240c67c5"
+  url "https://github.com/Topos-Labs/infiniloom/archive/refs/tags/v0.4.1.tar.gz"
+  sha256 "e4dd0fdb0f5637924d7f92bc195c79c29dbe0fd6067773db3efb88bcdc60b11f"
   license "MIT"
   head "https://github.com/Topos-Labs/infiniloom.git", branch: "main"
 
